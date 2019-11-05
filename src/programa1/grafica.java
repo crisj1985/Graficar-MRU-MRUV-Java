@@ -117,7 +117,7 @@ public class grafica extends javax.swing.JFrame {
         /*int resultado = Integer.parseInt(textField1.getText()) + Integer.parseInt(textField2.getText()) + Integer.parseInt(textField3.getText());          
         String result = String.valueOf(resultado);
         textField4.setText(result);*/
-        grafica (Double.parseDouble(textField1.getText()),Double.parseDouble(textField2.getText()),Double.parseDouble(textField3.getText()));
+        grafica (Double.parseDouble(textField1.getText()),Double.parseDouble(textField3.getText()),Double.parseDouble(textField2.getText()));
         
     }//GEN-LAST:event_button1ActionPerformed
 
